@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_downloaded">Downloaded</string>
+    <string name="nav_settings">Settings</string>
+</resources>
